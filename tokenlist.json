@@ -14,9 +14,9 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped HT",
+      "name": "Wrapped ETH",
       "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
-      "symbol": "WHT",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
