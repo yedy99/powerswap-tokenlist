@@ -27,7 +27,7 @@
       "symbol": "USE",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/USE.png"
     },
     {
       "name": "TC",
@@ -35,7 +35,7 @@
       "symbol": "TC",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/TC.png"
     },
     {
       "name": "TBBC",
@@ -43,7 +43,7 @@
       "symbol": "TBBC",
       "decimals": 18,
       "chainId": 256,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/TBBC.png"
     },
     {
       "name": "Tether COIN",
