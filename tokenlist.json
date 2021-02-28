@@ -3,8 +3,8 @@
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 2
+    "minor": 2,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
@@ -20,30 +20,6 @@
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
-    },
-    {
-      "name": "USE",
-      "address": "0xF726267FB615468ee36C3fdA2D1Ae04b7e8D8013",
-      "symbol": "USE",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/USE.png"
-    },
-    {
-      "name": "TC",
-      "address": "0xa9761BF7b148785Aad6eD69c76849853483c18eC",
-      "symbol": "TC",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/TC.png"
-    },
-    {
-      "name": "TBBC",
-      "address": "0xDef8551d5b6Fb496C8D4220bF17E8aCD1abaF42F",
-      "symbol": "TBBC",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/TBBC.png"
     },
     {
       "name": "Tether COIN",
@@ -84,6 +60,30 @@
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfeb76ae65c11b363bd452afb4a7ec59925848656/logo.png"
+    },
+    {
+      "name": "USE",
+      "address": "0xF726267FB615468ee36C3fdA2D1Ae04b7e8D8013",
+      "symbol": "USE",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/USE.png"
+    },
+    {
+      "name": "TC",
+      "address": "0xa9761BF7b148785Aad6eD69c76849853483c18eC",
+      "symbol": "TC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/TC.png"
+    },
+    {
+      "name": "TBBC",
+      "address": "0xDef8551d5b6Fb496C8D4220bF17E8aCD1abaF42F",
+      "symbol": "TBBC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/TBBC.png"
     },
     {
       "name": "BTC",
