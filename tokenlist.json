@@ -3,7 +3,7 @@
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -580,6 +580,30 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0x7d7063f3dca97eae63545a266c77587dd0296090.png"
+    },
+    {
+      "name": "PUSD",
+      "address": "0x70e7D9995447831c70c91e093dE8525A577ab04b",
+      "symbol": "PUSD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmSEHUbpfP2m9MpRD4FQ6X4nEYTLMujT4aP6XbpWEj8qVt"
+    },
+    {
+      "name": "PBTC",
+      "address": "0xFCB80D067Ae86a5210afa187715a10C0F9e21E77",
+      "symbol": "PBTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmPSqPeC5DCyqCWGyZLUJURh5k2gYHtbEYSiMRdA4hY5Rb"
+    },
+    {
+      "name": "PETH",
+      "address": "0xfF80d85bA54E7D2910be5a9D93792F4F12250EeE",
+      "symbol": "PETH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmY9HbESk1EKSG1sGeVzWUmq3FeDvU6rUGv2c9VdSvaE5o"
     }
   ]
 }
