@@ -3,7 +3,7 @@
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -604,6 +604,22 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmY9HbESk1EKSG1sGeVzWUmq3FeDvU6rUGv2c9VdSvaE5o"
+    },
+    {
+      "name": "PGLD",
+      "address": "0xE4010F0C95Df6E403e40cc5781772750bB0C0857",
+      "symbol": "PGLD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmNqYFr7ZSrtUhdveoZmtaqxcmPzckWByYUzksQ9VRC36N"
+    },
+    {
+      "name": "PAXG",
+      "address": "0xA277f0707355FA2F86d98a5B5C09C7919b7f859D",
+      "symbol": "PAXG",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmUcSM39tHcoLCDkf1QUYKnaAsBqLYRkppzV7zHjzgQYJS"
     }
   ]
 }
