@@ -3,7 +3,7 @@
   "timestamp": "2020-08-11T22:55:13.889Z",
   "version": {
     "major": 2,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   },
   "tags": {},
@@ -588,6 +588,30 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmSEHUbpfP2m9MpRD4FQ6X4nEYTLMujT4aP6XbpWEj8qVt"
+    },
+    {
+      "name": "PBTC",
+      "address": "0x091027510808Aa0056127D68C40176052216aEbF",
+      "symbol": "PBTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmPSqPeC5DCyqCWGyZLUJURh5k2gYHtbEYSiMRdA4hY5Rb"
+    },
+    {
+      "name": "PETH",
+      "address": "0xd3e2089eFC0eBc73ff4093193ac19C141bE625bC",
+      "symbol": "PETH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmY9HbESk1EKSG1sGeVzWUmq3FeDvU6rUGv2c9VdSvaE5o"
+    },
+    {
+      "name": "PGLD",
+      "address": "0xfEbcb8EB037dDc089384c1355D67C2c89a6CC287",
+      "symbol": "PGLD",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmNqYFr7ZSrtUhdveoZmtaqxcmPzckWByYUzksQ9VRC36N"
     }
   ]
 }
