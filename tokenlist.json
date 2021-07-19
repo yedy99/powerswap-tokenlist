@@ -86,6 +86,14 @@
       "logoURI": "https://raw.githubusercontent.com/landoyjx/ht-tokenlist/main/TBBC.png"
     },
     {
+      "name": "Constant Proporttional Portfolio Contract Token",
+      "address": "0x264C554a8b00a0e017F00D7AD7F7D1dfB86ad9d3",
+      "symbol": "CPPC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/yedy99/powerswap-tokenlist/main/CPPC3.png"
+    },
+    {
       "name": "USE",
       "address": "0xF726267FB615468ee36C3fdA2D1Ae04b7e8D8013",
       "symbol": "USE",
